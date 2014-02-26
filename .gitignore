@@ -1,13 +1,8 @@
 # http://www.gnu.org/software/automake
 
-Makefile.in
+.cproject
+.project
 
-# http://www.gnu.org/software/autoconf
-
-/autom4te.cache
-/aclocal.m4
-/compile
-/configure
-/depcomp
-/install-sh
-/missing
+/Debug
+/Release
+/.settings
